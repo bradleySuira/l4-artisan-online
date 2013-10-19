@@ -1,9 +1,7 @@
 l4-artisan-online
 =================
 
-Artisan Setup for share hosting or web deploy
-
-If you want run your migrations or seed a database on shared hosting environment you can create a route and put you commands like this:
+Run artisan commands from routes or controller. If you want run your migrations or seed a database on shared hosting environment you can create a route and put you commands like this:
 ----
 
 <nowiki>
