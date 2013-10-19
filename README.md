@@ -1,7 +1,7 @@
 l4-artisan-online
 =================
 
-Run artisan commands from routes or controller. If you want run your migrations or seed a database on shared hosting environment you can create a route and put you commands like this:
+Run artisan commands from routes or controller. If you want run your migrations or seed a database on shared hosting environment you can create a route and put your commands like this:
 
 ----
 
